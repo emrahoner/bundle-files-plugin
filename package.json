@@ -1,0 +1,29 @@
+{
+  "name": "bundle-files-plugin",
+  "version": "1.0.0",
+  "description": "bundles files and outputs with the given name for webpack, mostly can be used for legacy non-module javascript libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emrahoner/bundle-files-plugin.git"
+  },
+  "keywords": [
+    "bundle",
+    "file",
+    "javascript",
+    "webpack",
+    "concat",
+    "concatenation",
+    "browser",
+    "window"
+  ],
+  "author": "Emrah Oner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emrahoner/bundle-files-plugin/issues"
+  },
+  "homepage": "https://github.com/emrahoner/bundle-files-plugin#readme"
+}
